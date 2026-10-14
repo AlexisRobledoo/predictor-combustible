@@ -2,7 +2,7 @@
 
 App de **Machine Learning** que estima el precio por litro del combustible según el lugar, la marca de la estación y el tipo de combustible, entrenada con datos oficiales de la Secretaría de Energía.
 
-🔗 **Probala online:** _(link de Streamlit, se completa al publicar)_
+🔗 **Probala online:** https://predictor-combustible-ar.streamlit.app/
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
